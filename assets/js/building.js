@@ -134,3 +134,9 @@ const nicePics = [
 		creditURL: "https://unsplash.com/@simonppt",
 	},
 ];
+let picture = "";
+nicePics.forEach(function (item) {
+  picture = picture + `<a href ="${item.linkURL}">
+  <img src="assets/images
+  </a>
+)}

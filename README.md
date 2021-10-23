@@ -8,15 +8,11 @@
 
 **Infomation :**
 
----
-
 ## Code Review
 
 **Issues :**
 
 - issues....
-
----
 
 ## Attribution / Links
 
