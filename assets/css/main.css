@@ -1,0 +1,67 @@
+* {
+	margin: 0 auto;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Noto Sans Mono";
+}
+
+h1 {
+	text-align: center;
+	margin: 50px 0 50px 0;
+	font-size: 5rem;
+	font-family: "Noto Sans Mono";
+	font-weight: 800;
+	padding: 4rem 2rem;
+}
+.author {
+	color: rgb(201, 201, 201);
+	padding: 2px;
+}
+img {
+	display: flex;
+	max-width: 97%;
+	width: 450px;
+	height: 600px;
+	border-radius: 1px;
+	filter: brightness(0.6);
+}
+img:hover {
+	cursor: pointer;
+	width: 450px;
+	height: 680px;
+	transition: 0.4s ease;
+	filter: brightness(0.9);
+	box-shadow: 1px 4px 18px 3px#aac4db;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
+	max-width: 100%;
+	flex-wrap: wrap;
+	text-align: center;
+	color: rgb(10, 10, 10);
+	font-weight: bolder;
+	text-transform: uppercase;
+	margin-bottom: 5em;
+	font-size: 15px;
+	padding: 20px;
+}
+figcaption {
+	padding: 19px;
+}
+figure {
+	margin-bottom: 3rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+footer {
+	padding: 3rem;
+	font-size: 20px;
+	background-color: none;
+	text-align: center;
+}

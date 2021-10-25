@@ -6,17 +6,7 @@
 
 **Pages Link :** [GitHub Page](https://aeoyu.github.io/cpnt262-a2/)
 
-**Infomation :**
-
-## Code Review
-
-**Issues :**
-
-- issues....
-
 ## Attribution / Links
-
-- []()
 
 **Images**
 
